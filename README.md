@@ -26,7 +26,7 @@ Durante o desenvolvimento, pratiquei e aprimorei conceitos como:
 - ⚙ **Funções**: Organizando e reutilizando blocos de código  
 - 📦 **Arrays**: Armazenando e manipulando dados de forma dinâmica com vetor  
 - 🔁 **Recursão**: Chamando funções dentro delas mesmas para resolver tarefas  
-- 📚 **Uso de Biblioteca**: **ResponsiveVoice.js** para narrar o textos  
+- 📚 **Uso de Biblioteca**: Uso da lib **ResponsiveVoice.js** para narrar textos  
 - 🎙 **Integração com Voz**: Narração do jogo para acessibilidade  
 - ☁️ **Deploy**: Disponibilização do jogo usando a plataforma **Vercel**
 
